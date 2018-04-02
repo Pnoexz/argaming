@@ -46,7 +46,7 @@ span.multi-count.active{
     display:none !important
 }
 
-/* Comments like /r/leagueoflegends y /r/videos */
+/* Comments like /r/leagueoflegends and /r/videos */
 .side .md blockquote{
     margin: 10px 0 !important;
     padding: 15px;
